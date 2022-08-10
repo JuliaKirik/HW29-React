@@ -5,11 +5,11 @@ import './Employees.scss';
 
 function Employees() {
     const employees = [
-        {id: 1, name: 'Sam Smith', workingDays: 159, amount: 30},
-        {id: 2, name: 'John Doe', workingDays: 15, amount: 40},
-        {id: 3, name: 'Vic Salivan', workingDays: 20, amount: 10},
-        {id: 4, name: 'Alex Bolduin', workingDays: 14, amount: 20},
-        {id: 5, name: 'Peter Parker', workingDays: 6, amount: 50},
+        {id: 1, name: 'John Smoth', workingDays: 59, amount: 55},
+        {id: 2, name: 'Sue Doe', workingDays: 189, amount: 99},
+        {id: 3, name: 'Victor Salivan', workingDays: 50, amount: 12},
+        {id: 4, name: 'Alexandr Shevchuk', workingDays: 86, amount: 88},
+        {id: 5, name: 'Pavel Borh', workingDays: 1, amount: 50},
     ];
 
     return (
